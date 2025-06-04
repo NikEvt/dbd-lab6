@@ -1,0 +1,72 @@
+[
+  {
+    "fullname": "Иванов Иван",
+    "email": "ivanov@example.com",
+    "phonenumber": "+79990000001",
+    "address": "Москва, ул. Ленина, 1",
+    "registrationdate": "2023-01-10"
+  },
+  {
+    "fullname": "Петров Петр",
+    "email": "petrov@example.com",
+    "phonenumber": "+79990000002",
+    "address": "Санкт-Петербург, Невский, 10",
+    "registrationdate": "2023-02-11"
+  },
+  {
+    "fullname": "Сидорова Анна",
+    "email": "sidorova@example.com",
+    "phonenumber": "+79990000003",
+    "address": "Казань, ул. Кремлевская, 5",
+    "registrationdate": "2023-03-15"
+  },
+  {
+    "fullname": "Козлов Алексей",
+    "email": "kozlov@example.com",
+    "phonenumber": "+79990000004",
+    "address": "Новосибирск, Красный проспект, 20",
+    "registrationdate": "2023-04-20"
+  },
+  {
+    "fullname": "Попова Мария",
+    "email": "popova@example.com",
+    "phonenumber": "+79990000005",
+    "address": "Екатеринбург, Малышева, 33",
+    "registrationdate": "2023-05-25"
+  },
+  {
+    "fullname": "Федоров Дмитрий",
+    "email": "fedorov@example.com",
+    "phonenumber": "+79990000006",
+    "address": "Нижний Новгород, ул. Советская, 2",
+    "registrationdate": "2023-06-01"
+  },
+  {
+    "fullname": "Смирнова Ольга",
+    "email": "smirnova@example.com",
+    "phonenumber": "+79990000007",
+    "address": "Ростов-на-Дону, Садовая, 55",
+    "registrationdate": "2023-06-15"
+  },
+  {
+    "fullname": "Григорьев Павел",
+    "email": "grigoryev@example.com",
+    "phonenumber": "+79990000008",
+    "address": "Красноярск, проспект Мира, 100",
+    "registrationdate": "2023-07-01"
+  },
+  {
+    "fullname": "Лебедева Виктория",
+    "email": "lebedeva@example.com",
+    "phonenumber": "+79990000009",
+    "address": "Воронеж, ул. Лизюкова, 18",
+    "registrationdate": "2023-07-20"
+  },
+  {
+    "fullname": "Морозов Артем",
+    "email": "morozov@example.com",
+    "phonenumber": "+79990000010",
+    "address": "Пермь, ул. Карла Маркса, 3",
+    "registrationdate": "2023-08-10"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  { "tariffname": "ТВ Базовый", "monthlycost": 250.00, "channelcount": 60 },
+  { "tariffname": "ТВ Расширенный", "monthlycost": 400.00, "channelcount": 120 },
+  { "tariffname": "ТВ Спорт", "monthlycost": 500.00, "channelcount": 30 },
+  { "tariffname": "ТВ Кино", "monthlycost": 450.00, "channelcount": 40 },
+  { "tariffname": "ТВ Музыка", "monthlycost": 300.00, "channelcount": 20 },
+  { "tariffname": "ТВ Детям", "monthlycost": 280.00, "channelcount": 25 },
+  { "tariffname": "ТВ Премиум", "monthlycost": 700.00, "channelcount": 150 },
+  { "tariffname": "ТВ Эконом", "monthlycost": 180.00, "channelcount": 40 },
+  { "tariffname": "ТВ Безлимит", "monthlycost": 1000.00, "channelcount": 200 },
+  { "tariffname": "ТВ Ultra", "monthlycost": 1200.00, "channelcount": 250 }
+]

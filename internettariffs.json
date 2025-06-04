@@ -1,0 +1,12 @@
+[
+  { "tariffname": "Домашний 100", "monthlycost": 500.00, "speed": 100, "datacap": 1000 },
+  { "tariffname": "Домашний 300", "monthlycost": 700.00, "speed": 300, "datacap": 3000 },
+  { "tariffname": "Гигабит", "monthlycost": 1000.00, "speed": 1000, "datacap": null },
+  { "tariffname": "Эконом", "monthlycost": 300.00, "speed": 50, "datacap": 500 },
+  { "tariffname": "Игровой", "monthlycost": 1200.00, "speed": 500, "datacap": 5000 },
+  { "tariffname": "Семейный", "monthlycost": 850.00, "speed": 300, "datacap": 2000 },
+  { "tariffname": "Оптимальный", "monthlycost": 600.00, "speed": 200, "datacap": 1500 },
+  { "tariffname": "Мини", "monthlycost": 250.00, "speed": 30, "datacap": 300 },
+  { "tariffname": "Премиум", "monthlycost": 1500.00, "speed": 1000, "datacap": null },
+  { "tariffname": "Бизнес", "monthlycost": 2000.00, "speed": 2000, "datacap": null }
+]

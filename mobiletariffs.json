@@ -1,0 +1,12 @@
+[
+  { "tariffname": "Мобильный XS", "monthlycost": 250.00, "datalimit": 5, "callminutes": 200, "smslimit": 50 },
+  { "tariffname": "Мобильный S", "monthlycost": 300.00, "datalimit": 10, "callminutes": 300, "smslimit": 100 },
+  { "tariffname": "Мобильный M", "monthlycost": 400.00, "datalimit": 20, "callminutes": 500, "smslimit": 200 },
+  { "tariffname": "Мобильный L", "monthlycost": 600.00, "datalimit": 30, "callminutes": 1000, "smslimit": 500 },
+  { "tariffname": "Мобильный XL", "monthlycost": 800.00, "datalimit": 50, "callminutes": 2000, "smslimit": 1000 },
+  { "tariffname": "Безлимит", "monthlycost": 1000.00, "datalimit": null, "callminutes": null, "smslimit": null },
+  { "tariffname": "Молодежный", "monthlycost": 350.00, "datalimit": 15, "callminutes": 400, "smslimit": 100 },
+  { "tariffname": "Соц", "monthlycost": 150.00, "datalimit": 3, "callminutes": 100, "smslimit": 20 },
+  { "tariffname": "Комбо", "monthlycost": 550.00, "datalimit": 25, "callminutes": 700, "smslimit": 300 },
+  { "tariffname": "Про", "monthlycost": 900.00, "datalimit": 100, "callminutes": 3000, "smslimit": 1500 }
+]
